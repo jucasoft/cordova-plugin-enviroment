@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    id="cordova-enviroment"
+    version="0.0.1">
+    <name>cordova-enviroment</name>
+    <description></description>
+    <license>MIT</license>
+    <keywords></keywords>
+    <repo>https://github.com/jucasoft/cordova-plugin-enviroment.git</repo>
+    <issue>https://github.com/jucasoft/cordova-plugin-enviroment/issues</issue>
+
+    <hook type="after_prepare" src="scripts/after_prepare.js"/>
+</plugin>

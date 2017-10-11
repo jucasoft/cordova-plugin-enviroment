@@ -1,0 +1,15 @@
+{
+  "name": "cordova-plugin-enviroment",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-enviroment",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "Override environment variable",
+  "dependencies": {
+    "replace-in-file": "^3.0.0-beta.2"
+  }
+}
