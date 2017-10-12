@@ -10,6 +10,5 @@
   },
   "description": "Override environment variable",
   "dependencies": {
-    "replace-in-file": "^3.0.0-beta.2"
   }
 }
